@@ -1,0 +1,109 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/admin/js/sb-admin-datatables.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/datatables/dataTables.bootstrap4.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/datatables/dataTables.bootstrap4.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/datatables/jquery.dataTables.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/datatables/jquery.dataTables.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.compatibility.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.compatibility.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.min.js" />
+        <item url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
+        <item url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropper.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.common.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/cropper.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/main.min.js" />
+        <item url="file://$PROJECT_DIR$/js/cropperjs-master/postcss.config.min.js" />
+        <item url="file://$PROJECT_DIR$/js/fullpage/jquery.fullpage.extensions.min.min.js" />
+        <item url="file://$PROJECT_DIR$/js/fullpage/jquery.fullpage.min.js" />
+        <item url="file://$PROJECT_DIR$/js/ios-orientationchange-fix.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/jcarousellite.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/ios-orientationchange-fix.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery.jcarousellite.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery.scrollify.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery.velocity.min.js" />
+        <item url="file://$PROJECT_DIR$/js/main.min.js" />
+        <item url="file://$PROJECT_DIR$/js/modalEffects.min.js" />
+        <item url="file://$PROJECT_DIR$/js/plugins.min.js" />
+        <item url="file://$PROJECT_DIR$/js/vendor/jquery-3.2.1.min.min.js" />
+        <item url="file://$PROJECT_DIR$/js/vendor/modernizr-3.5.0.min.min.js" />
+        <item url="file://$PROJECT_DIR$/js/vendor/popper.min.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/TweenMax.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.common.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/cropper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/main.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/postcss.config.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ios-orientationchange-fix.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/.eslintrc.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/Gruntfile.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/jcarousellite.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/ios-orientationchange-fix.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/jquery.mousewheel.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/jquery.velocity.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/jquery/jquery.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/src/jquery.jcarousellite.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/test/qunit/qunit.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/test/tests.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.jcarousellite.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.mask.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.velocity.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/popper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/js/sb-admin-datatables.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/datatables/dataTables.bootstrap4.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/datatables/dataTables.bootstrap4.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/datatables/jquery.dataTables.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/datatables/jquery.dataTables.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.compatibility.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.compatibility.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery-easing/jquery.easing.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.min.js" />
+      <root url="file://$PROJECT_DIR$/admin/vendor/jquery/jquery.slim.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
+      <root url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropper.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.common.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/dist/cropper.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/cropper.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/docs/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cropperjs-master/postcss.config.min.js" />
+      <root url="file://$PROJECT_DIR$/js/fullpage/jquery.fullpage.extensions.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/fullpage/jquery.fullpage.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ios-orientationchange-fix.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/jcarousellite.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-carousel-lite-master/lib/ios-orientationchange-fix.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.jcarousellite.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.scrollify.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.velocity.min.js" />
+      <root url="file://$PROJECT_DIR$/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/js/main.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/modalEffects.min.js" />
+      <root url="file://$PROJECT_DIR$/js/plugins.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/jquery-3.2.1.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/modernizr-3.5.0.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/popper.min.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
